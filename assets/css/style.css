@@ -934,6 +934,10 @@ header .navbar ul li a:hover {
 .contact {
   background: #e5ecfb;
   min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 0;
 }
 .contact .container {
   max-width: 1050px;
