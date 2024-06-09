@@ -49,7 +49,7 @@
     "image": "hulu",
     "category": "TypeScript,Next js,MERN",
     "links": {
-      "view": "/",
+      "view": "https://vision-io.netlify.app",
       "code": "/"
     }
   },
@@ -90,79 +90,33 @@
     "image": "webchat",
     "category": "mern",
     "links": {
-      "view": "/",
-      "code": "/"
+      "view": "",
+      "code": ""
     }
   },
   
-  {
-    "name": "JavaScript Issue Tracker",
-    "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
-    "image": "issuetrack",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
-    }
-  },
-  {
-    "name": "PHP PBL Portal",
-    "desc": "A simple portal in which students can submit their PBL projects and faculties can view by access admin panel.",
-    "image": "phppblform",
-    "category": "lamp",
-    "links": {
-      "view": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform#pbl-portal",
-      "code": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform"
-    }
-  },
-  {
-    "name": "Link List",
-    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
-    "image": "linklist",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/LinkList",
-      "code": "https://github.com/jigar-sable/LinkList"
-    }
-  },
-  {
-    "name": "Job Finder Dummy",
-    "desc": "It Fetch JSON Data And Allow Feature To Search Within The Content Displayed. Will be Developed By Using Live APIs.",
-    "image": "saas",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/api-projects/saas-jobs",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/api-projects/saas-jobs"
-    }
-  },
+
+ 
+
   {
     "name": "Old Websites",
     "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
     "image": "oldsites",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "",
+      "code": ""
     }
   },
-  {
-    "name": "Resistor Color Codes",
-    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
-    "image": "resistercolor",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
+  
   {
     "name": "KIA Info Website",
     "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
     "image": "kiaweb",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -171,8 +125,8 @@
     "image": "burgerweb",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "",
+      "code": ""
     }
   } 
 ]
