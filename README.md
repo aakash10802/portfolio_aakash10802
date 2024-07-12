@@ -11,7 +11,7 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 ### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
+Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, getform.io,Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
 ![mockup720](https://firebasestorage.googleapis.com/v0/b/vision-v2-af602.appspot.com/o/Screenshot%202024-06-08%20160447.png?alt=media&token=facfd3da-cd3e-47d2-b27c-eb401fb28364)
