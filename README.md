@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="https://aakash-dev.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://aakash-dev.netlify.app/" target="_blank">**Visit Now** 🚀🚀</a>
 
 
 ## 📌 Tech Stack
@@ -19,7 +19,7 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, getform.io,Font Awesome 
 ![skills](https://firebasestorage.googleapis.com/v0/b/vision-v2-af602.appspot.com/o/Screenshot%202024-06-08%20173700.png?alt=media&token=307f0e9b-eb24-4b6e-a0eb-0b851dd19eb9)
 
 
-<h2>📬 Contact</h2>
+<h2>📬🚀 Contact</h2>
 
 Feel free to reach me through the below handles if you'd like to contact me.
 
